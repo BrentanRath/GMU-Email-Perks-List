@@ -44,3 +44,5 @@ Some of these come with your email, some you can register with your email. (Some
 - [Notion Pro](https://www.notion.com/product/notion-for-education) - Get the "Personal Pro" equivalent for free. This removes file upload limits and gives you unlimited blocks and version history. (Verified)
 - [LinkedIn Premium (Career)](https://www.linkedin.com/help/linkedin/answer/a9954084) - Microsoft currently offers 12 months of LinkedIn Premium Career for free to eligible higher-ed students (valid through 2026, not sure about 2027). (Un-Verified)
 - [Google Gemini Pro Plan](https://gemini.google/students/) - You get 12-month trial of Gemini Pro and Advanced AI features (includes 2TB of storage on Google Drive) for free. (Un-Verified)
+- [AutoDesk Education](https://www.autodesk.com/education/edu-software/overview) - Free access to professional tools like AutoCAD, Maya, and Revit for educational use. (Un-Verified)
+- [Tableau for Desktop](https://www.tableau.com/academic/students) - A free one-year license for the full version of the data visualization software. (Un-Verified)
