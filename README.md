@@ -37,3 +37,4 @@ Some of these come with your email, some you can register with your email. (Some
 # Computer Science
 - [Cursor](https://cursor.com/students) - Most powerful AI coding IDE, a fork of VsCode.
 - [Github Student Developer Pack](https://education.github.com/pack) - A bundle of $2,000 worth of software, bundles and websites for programmers, and tech nerds.
+- [JetBrains Student Pack](https://www.jetbrains.com/academy/student-pack/) - Access free JetBrains IDEs, AI tools, plugins, and courses for the full duration of your studies. All IDE's, Pro AI Plan, JetBrains Academy and CodeWithMe.
