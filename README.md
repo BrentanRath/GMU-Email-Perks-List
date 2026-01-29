@@ -35,4 +35,4 @@ Some of these come with your email, some you can register with your email. (Some
 - [Word](https://word.cloud.microsoft) - Write, share, and make real-time edits.
 
 # Computer Science
-- [Cursor](): 
+- [Cursor](https://cursor.com/students) - Most powerful AI coding IDE, a fork of VsCode.
