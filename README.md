@@ -34,15 +34,18 @@ Some of these come with your email, some you can register with your email. (Some
 - [Whiteboard](https://whiteboard.office.com) - Ideate and collaborate on a freeform canvas. (Un-Verified)
 - [Word](https://word.cloud.microsoft) - Write, share, and make real-time edits. (Un-Verified)
 
-# Computer Science
+## Computer Science
 - [Cursor](https://cursor.com/students) - Most powerful AI coding IDE, a fork of VsCode. (Verified)
 - [Github Student Developer Pack](https://education.github.com/pack) - A bundle of $2,000 worth of software, bundles and websites for programmers, and tech nerds. (Verified)
 - [JetBrains Student Pack](https://www.jetbrains.com/academy/student-pack/) - Access free JetBrains IDEs, AI tools, plugins, and courses for the full duration of your studies. All IDE's, Pro AI Plan, JetBrains Academy and CodeWithMe. (Un-Verified)
+- [MongoDB for Academia](https://www.mongodb.com/community/forums/c/academia/34) - Students get $50 in credits plus free access to MongoDB University certifications. (Un-Verified)
+- [Unity Student Plan](https://unity.com/products/unity-student) - If you're into game dev, this gives you the Unity Pro-level features, including the "Cloud Diagnostics" tool, for free.
 
 
-# General Software
+## General Software
 - [Notion Pro](https://www.notion.com/product/notion-for-education) - Get the "Personal Pro" equivalent for free. This removes file upload limits and gives you unlimited blocks and version history. (Verified)
 - [LinkedIn Premium (Career)](https://www.linkedin.com/help/linkedin/answer/a9954084) - Microsoft currently offers 12 months of LinkedIn Premium Career for free to eligible higher-ed students (valid through 2026, not sure about 2027). (Un-Verified)
 - [Google Gemini Pro Plan](https://gemini.google/students/) - You get 12-month trial of Gemini Pro and Advanced AI features (includes 2TB of storage on Google Drive) for free. (Un-Verified)
 - [AutoDesk Education](https://www.autodesk.com/education/edu-software/overview) - Free access to professional tools like AutoCAD, Maya, and Revit for educational use. (Un-Verified)
 - [Tableau for Desktop](https://www.tableau.com/academic/students) - A free one-year license for the full version of the data visualization software. (Un-Verified)
+
