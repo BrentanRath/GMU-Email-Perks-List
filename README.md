@@ -1,6 +1,7 @@
 # George Mason Email Perk List
 This is an unofficial list of everything I have found so far that you can get once you are a student at GMU.
 Some of these come with your email, some you can register with your email. (Some are GMU specific, or .edu in general.)
+This also includeds things for just being a GMU student with an ID.
 
 ## Microsoft
 - [Bookings](https://outlook.office.com/bookings) - Simplify how you schedule and manage appointments both inside and outside your organization. (Un-Verified)
