@@ -14,7 +14,7 @@ Some of these come with your email, some you can register with your email. (Some
 - [Learning Activities](https://viva.cloud.microsoft) - AI-powered activities that spark better learning.
 - [Lists](https://www.office.com/launch/lists) - Create, share, and track data inside lists.
 - [Loop](https://loop.cloud.microsoft) - Enabling teams to think, plan, and create together.
-- [OneDrive](https://portal.office.com/onedrive) - Safely store files, photos, and more.
+- [OneDrive](https://portal.office.com/onedrive) - Safely store files, photos, and more. 1TB free for your account.
 - [OneNote](https://www.office.com/launch/onenote) - Create a digital notebook.
 - [Org Explorer](https://outlook.office.com/people) - Visualize your entire organization in a single, intuitive and interactive view.
 - [Outlook](https://outlook.cloud.microsoft) - Email, schedule, and set tasks.
